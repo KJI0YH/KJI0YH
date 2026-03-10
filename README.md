@@ -8,6 +8,7 @@
 <!-- git config --global alias.lgg "lg --graph" -->
 <!-- git config --global alias.lgt "lg --no-walk --tags" -->
 <!-- git config --global alias.cm commit -->
+<!-- git config --global alias.mr merge -->
 <!-- git config --global alias.br branch -->
 <!-- git config --global alias.co checkout -->
 <!-- git config --global alias.st status -->
